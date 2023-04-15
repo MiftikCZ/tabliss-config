@@ -1,0 +1,101 @@
+{
+  "widget/1SnIhOhLG_Pf": null,
+  "widget/default-greeting": null,
+  "widget/FGj_zSSPQsHM": null,
+  "data/dV9h3SJZMcYy": {
+    "colour": "#141419"
+  },
+  "widget/K8MG6Ye8Pz6b": {
+    "id": "K8MG6Ye8Pz6b",
+    "key": "widget/links",
+    "order": 3,
+    "display": {
+      "position": "topLeft",
+      "colour": "#2e4569"
+    }
+  },
+  "locale": "en",
+  "timeZone": null,
+  "widget/BfwxTStRkQjB": null,
+  "focus": false,
+  "widget/aY_FBJrtn3-Z": null,
+  "widget/K0FiIvgykqw0": null,
+  "widget/Kl_bc22s9n39": null,
+  "data/K8MG6Ye8Pz6b": {
+    "columns": 1,
+    "links": [
+      {
+        "url": "http://localhost:5173",
+        "icon": "lock"
+      },
+      {
+        "url": "https://miftikcz.github.io/note_keeper",
+        "name": "",
+        "icon": "columns"
+      },
+      {
+        "url": "https://mail.proton.me",
+        "icon": "mail"
+      },
+      {
+        "url": "https://dev.to",
+        "icon": "code"
+      },
+      {
+        "url": "https://github.com",
+        "icon": "github"
+      },
+      {
+        "url": "https://www.answers.com/",
+        "icon": "book"
+      }
+    ],
+    "visible": true,
+    "linkOpenStyle": false
+  },
+  "data/default-time": {
+    "mode": "digital",
+    "hour12": false,
+    "showDate": false,
+    "showMinutes": true,
+    "showSeconds": true,
+    "showDayPeriod": true,
+    "timeZone": null,
+    "name": ""
+  },
+  "widget/konbJL94lHBJ": null,
+  "widget/3F7LbpXN3ftI": {
+    "id": "3F7LbpXN3ftI",
+    "key": "widget/github",
+    "order": 1,
+    "display": {
+      "position": "middleCentre",
+      "fontSize": 2
+    }
+  },
+  "data/3F7LbpXN3ftI": {
+    "username": "MiftikCZ",
+    "showSummary": false
+  },
+  "widget/vNEB_pFwhwNi": null,
+  "background": {
+    "id": "dV9h3SJZMcYy",
+    "key": "background/colour",
+    "display": {
+      "blur": 0,
+      "luminosity": -0.2
+    }
+  },
+  "widget/default-time": {
+    "id": "default-time",
+    "key": "widget/time",
+    "order": 0,
+    "display": {
+      "position": "middleCentre",
+      "colour": "#deddda",
+      "fontFamily": "jetbrains mono",
+      "fontSize": 22
+    }
+  },
+  "version": 3
+}
