@@ -21,37 +21,16 @@
   "widget/aY_FBJrtn3-Z": null,
   "widget/K0FiIvgykqw0": null,
   "widget/Kl_bc22s9n39": null,
-  "data/K8MG6Ye8Pz6b": {
-    "columns": 1,
-    "links": [
-      {
-        "url": "http://localhost:5173",
-        "icon": "lock"
-      },
-      {
-        "url": "https://miftikcz.github.io/note_keeper",
-        "name": "",
-        "icon": "columns"
-      },
-      {
-        "url": "https://mail.proton.me",
-        "icon": "mail"
-      },
-      {
-        "url": "https://dev.to",
-        "icon": "code"
-      },
-      {
-        "url": "https://github.com",
-        "icon": "github"
-      },
-      {
-        "url": "https://www.answers.com/",
-        "icon": "book"
-      }
-    ],
-    "visible": true,
-    "linkOpenStyle": false
+  "widget/default-time": {
+    "id": "default-time",
+    "key": "widget/time",
+    "order": 0,
+    "display": {
+      "position": "middleCentre",
+      "colour": "#deddda",
+      "fontFamily": "jetbrains mono",
+      "fontSize": 22
+    }
   },
   "data/default-time": {
     "mode": "digital",
@@ -86,16 +65,45 @@
       "luminosity": -0.2
     }
   },
-  "widget/default-time": {
-    "id": "default-time",
-    "key": "widget/time",
-    "order": 0,
-    "display": {
-      "position": "middleCentre",
-      "colour": "#deddda",
-      "fontFamily": "jetbrains mono",
-      "fontSize": 22
-    }
+  "data/K8MG6Ye8Pz6b": {
+    "columns": 1,
+    "links": [
+      {
+        "url": "http://localhost:5173",
+        "icon": "lock"
+      },
+      {
+        "url": "https://miftikcz.github.io/note_keeper",
+        "name": "",
+        "icon": "columns"
+      },
+      {
+        "url": "https://mail.proton.me",
+        "icon": "mail"
+      },
+      {
+        "url": "https://dev.to",
+        "icon": "code"
+      },
+      {
+        "url": "https://github.com/MiftikCZ",
+        "icon": "github"
+      },
+      {
+        "url": "https://www.answers.com/",
+        "icon": "book"
+      },
+      {
+        "url": "https://miftikcz.github.io/todos-keeper/",
+        "icon": "delete"
+      },
+      {
+        "url": "https://discord.com/channels/871631306449108992/981977005069307904",
+        "icon": "cast"
+      }
+    ],
+    "visible": true,
+    "linkOpenStyle": false
   },
   "version": 3
 }
